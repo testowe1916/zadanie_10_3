@@ -1,0 +1,23 @@
+.box {
+	width: 100%;
+	text-align: center;
+}
+
+#carousel {
+	height: 600px;
+	width: 700px;
+	overflow: hidden;
+	border: 15px groove blue;
+}
+
+ul {
+	width: 3500px;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	width: 700px;
+	float: left;
+	list-style-type: none;
+}
